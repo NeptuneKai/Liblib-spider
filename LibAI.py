@@ -1,3 +1,4 @@
+# 代码片段
 class LibAI(MySpider):
     def __init__(self, sort_by=1, download_new=False, pic_path=r'C:\LibAI图片',
                  thunder_start_path=r"C:\Program Files (x86)\Thunder Network\Thunder\Program\ThunderStart.exe",
